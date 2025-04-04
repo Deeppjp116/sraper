@@ -4,3 +4,49 @@ const url = `http://api.serpstack.com/search?access_key=05f0cb70170d1e3581f7f4d4
 
 
 29ef478ea3c6c8be8e6d911ef46813cb81d6a25a17a712915048d32953f83282
+
+
+Here are some common academic and educational domain extensions in India and globally:
+
+1. India (Academic Institutions):
+
+.ac.in (Academic Institutions in India)
+
+.edu.in (Educational Institutions in India)
+
+
+
+2. Global (Academic Institutions):
+
+.edu (Educational Institutions, mainly in the USA)
+
+.ac.uk (Academic Institutions in the UK)
+
+.ac.nz (Academic Institutions in New Zealand)
+
+.ac.jp (Academic Institutions in Japan)
+
+.ac.za (Academic Institutions in South Africa)
+
+.ac.ir (Academic Institutions in Iran)
+
+.ac.id (Academic Institutions in Indonesia)
+
+.ac.kr (Academic Institutions in South Korea)
+
+.ac.th (Academic Institutions in Thailand)
+
+.ac.cn (Academic Institutions in China)
+
+
+
+
+These domain extensions are reserved for universities, colleges, and other educational institutions.
+
+
+Here’s a table with the academic domain extensions used in Gujarat and India:
+
+For Gujarat, there are no special domain extensions apart from these. Most universities and academic institutions strictly use .ac.in.
+
+
+
